@@ -1,0 +1,26 @@
+{
+  "name": "@types/react-translate",
+  "version": "0.1.0",
+  "description": "TypeScript definitions for react-translate",
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Erki Bender",
+      "url": "https://github.com/erkib",
+      "githubUsername": "erkib"
+    }
+  ],
+  "main": "",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/react-translate"
+  },
+  "scripts": {},
+  "dependencies": {
+    "@types/prop-types": "*",
+    "@types/react": "*"
+  },
+  "typeScriptVersion": "3.8"
+}
