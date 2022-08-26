@@ -22,5 +22,5 @@
     "@types/prop-types": "*",
     "@types/react": "*"
   },
-  "typeScriptVersion": "4.7"
+  "typeScriptVersion": "3.8"
 }
